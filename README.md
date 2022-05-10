@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Fadlalah Taher
 
 
-- 🌱 I’m currently learning React and Nodejs
 - 🚀 I’m always open to new learning experiences
 - 🤔 I’ve a lot of hobbies: 📚reading, swimming...
 - 📫 How to reach me fadeltaher111@gmail.com
