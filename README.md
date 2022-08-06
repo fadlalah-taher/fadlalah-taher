@@ -2,7 +2,7 @@
 
 
 - 🚀 I’m always open to new learning experiences
-- 🤔 I’ve a lot of hobbies: 📚reading, swimming...
+- 🤔 I’ve a lot of hobbies: 📚reading, codding...
 - 📫 How to reach me fadeltaher111@gmail.com
 
  ## 💻 Stuff I Know
