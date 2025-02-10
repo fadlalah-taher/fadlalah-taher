@@ -3,7 +3,7 @@
 
 - 🚀 I’m always open to new learning experiences
 - 🤔 I’ve a lot of hobbies: 📚reading, coding...
-- 📫 How to reach me fadlalahtaher1@gmail.com
+- 📫 How to reach me taherfadlalah@gmail.com
 
  ## 💻 Stuff I Know
  
