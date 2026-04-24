@@ -23,7 +23,6 @@
 
 ### ☕ Java
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -41,12 +40,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-## ♡ My Social
-
-<a href="https://www.instagram.com/fadel__taher/"><img src="https://user-images.githubusercontent.com/97299174/167667422-ce0d6196-64ac-49a6-928a-29aa768e7883.svg" width="50"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/fadeltaher8"><img src="https://user-images.githubusercontent.com/97299174/167669486-f0d500cc-4ff2-4817-a544-5cb5983ecf80.svg" width="50"></img></a>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
 
 
